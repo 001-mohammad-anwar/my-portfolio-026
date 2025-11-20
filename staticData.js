@@ -2,6 +2,7 @@ export const intro = [
   {
     welcomeText: "Hi, I'm",
     firstName: "Mohammad",
+    email : "anwarchd011@gmail.com",
     lastName: "Anwar",
     caption: "I build things for the web",
     description:
